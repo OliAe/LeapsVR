@@ -7,11 +7,6 @@ public class Orbit : MonoBehaviour
     public GameObject meteor;
     public float speed;
     
-    void Start()
-    {
-        
-    }
-
     void Update()
     {
         OrbitAround ();
