@@ -5,7 +5,6 @@ using UnityEngine.SceneManagement;
 public class Finish : MonoBehaviour
 {
     private int nextSceneToLoad;
-
     private Scene scene;
     void Start()
     {
